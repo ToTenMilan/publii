@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>majstry</title>
+    <link href="https://totenmilan.github.io/publii/feed.xml" rel="self" />
+    <link href="https://totenmilan.github.io/publii" />
+    <updated>2018-11-19T21:19:20+01:00</updated>
+    <author>
+        <name>Grzegorz</name>
+    </author>
+    <id>https://totenmilan.github.io/publii</id>
+
+    <entry>
+        <title>Zaczynamy</title>
+        <author>
+            <name>Grzegorz</name>
+        </author>
+        <link href="https://totenmilan.github.io/publii/zaczynamy.html"/>
+        <id>https://totenmilan.github.io/publii/zaczynamy.html</id>
+
+        <updated>2018-11-19T21:14:48+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://totenmilan.github.io/publii/media/posts/1/" alt="" />
+                    Roku pańskiego 2018...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://totenmilan.github.io/publii/media/posts/1/" alt="" />
+                Roku pańskiego 2018...
+            ]]>
+        </content>
+    </entry>
+</feed>

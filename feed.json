@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "majstry",
+    "description": "",
+    "home_page_url": "https://totenmilan.github.io/publii",
+    "feed_url": "https://totenmilan.github.io/publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Grzegorz"
+    },
+    "items": [
+        {
+            "id": "https://totenmilan.github.io/publii/zaczynamy.html",
+            "url": "https://totenmilan.github.io/publii/zaczynamy.html",
+            "title": "Zaczynamy",
+            "summary": "Roku pańskiego 2018...",
+            "content_html": "Roku pańskiego 2018...",
+            "image": "https://totenmilan.github.io/publii/media/posts/1/",
+            "author": {
+                "name": "Grzegorz"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-11-19T21:14:48+01:00",
+            "date_modified": "2018-11-19T21:14:48+01:00"
+        }
+    ]
+}
